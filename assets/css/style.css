@@ -1,0 +1,50 @@
+
+body{
+	background-color: black ;
+	}
+#main1{
+	margin-left: 60px;
+	margin-right: 60px;
+	}
+.navbar{
+	background-color: black;
+	}
+ul{
+	list-style-type: none;
+}
+li {
+	text-align: left;
+	}
+
+a{
+  font-size: 30px;
+  color: red;
+  margin-left: 40px;
+    }
+#mylogo{
+	margin-left: 210px;
+
+}
+#imgId{
+	width:100px;
+	height:100px;
+}
+#logoName{
+	margin-top: 40px;
+}
+#button{
+	margin-left: 60px;	
+}
+#searchBtn{
+	margin-right: 20px;
+
+	margin-top: 20px;
+	width: 100px;
+}
+#image{
+	margin-left: 30px;
+	margin-top: 10px;
+}
+#item{
+	float: left;
+}
